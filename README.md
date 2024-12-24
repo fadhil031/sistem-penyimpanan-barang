@@ -1,0 +1,1 @@
+# sistem-penyimpanan-barang
